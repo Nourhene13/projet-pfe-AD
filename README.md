@@ -1,5 +1,5 @@
 # projet-pfe-AD
-Mise en place d’une stratégie IAM et PAM pour sécuriser les accès dans un environnement Active Directory
+Implementing an IAM and PAM Strategy to Secure Access in an Active Directory Environment
 
 🚀 Sprints Overview
 **Sprint 1: Risk Analysis & Active Directory Vulnerabilities
